@@ -1,5 +1,0 @@
-a = int("149")
-b = int("321")
-c = int("123")
-print(max( a ,b ,c ))
-print(min( a ,b ,c ))

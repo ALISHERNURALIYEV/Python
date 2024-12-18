@@ -1,0 +1,5 @@
+a = int("147")
+b = int("159")
+c = int("963")
+print(min(a,b,c))
+print(max(a,b,c))
